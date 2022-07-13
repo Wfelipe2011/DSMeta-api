@@ -1,0 +1,10 @@
+{
+  "interface": "interface",
+  "pages": "pages",
+  "components": "components",
+  "icons": "icons",
+  "entity": "src/infra/database/table",
+  "repository": "src/infra/database/repository",
+  "module": "src/app/module",
+  "swagger": false
+}
